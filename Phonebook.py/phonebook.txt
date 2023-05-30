@@ -1,0 +1,6 @@
+1:Joe Rogan:555-4545:podcaster
+2:Elon Musk:555-0000:engeneer
+3:MaryVolgunts:555-1234:me
+4:Ted Bundy:555-4444:serial killer
+5:Daniel Day-Lewis:555-0909:actor
+6:Мария:89254975231:Мой телефон
